@@ -4,4 +4,6 @@
 https://blog.csdn.net/u012009613/article/details/52263486
 https://www.cnblogs.com/huajiezh/p/5467821.html
 "修改了读取列表时候的临时参数"：temp1 temp2 这样就能计算出更准确的结果
-"增加了批量化处理excel，利用poi，poi下载网址" ：
+"增加了批量化处理excel，利用poi"
+Apache poi下载地址：http://poi.apache.org/download.html
+"Apache poi 是专门批量处理excel文件的工具包"
